@@ -1,7 +1,7 @@
 {
   "name": "pwatest",
   "short_name": "pwatest",
-  "start_url": "http://localhost:3000/",
+  "start_url": "https://pwanextjs.vercel.app/",
   "display": "standalone",
   "display_override": "standalone, fullscreen",
   "description": "A description for your application",
@@ -45,7 +45,7 @@
   "related_applications": [
     {
       "platform": "windows",
-      "url": "http://localhost:3000/"
+      "url": "https://pwanextjs.vercel.app/"
     }
   ],
   "prefer_related_applications": false,
